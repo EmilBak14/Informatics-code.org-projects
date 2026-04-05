@@ -9,5 +9,7 @@ The app is designed with a front page where you need to login with the following
 Brugernavn: Emil
 Adgangskode: 1234
 
+You can view and interact with the project using the following link:
+
 [Code.org Project Multiple simple apps in 1](https://studio.code.org/projects/applab/4628c7c0-dd22-4a56-a132-2fe13aa723bd)
 
