@@ -1,5 +1,7 @@
 # Pizza Ordering App
 
+This project is a JavaScript app created using Code.org.
+
 This project is a simple pizza ordering application that simulates a real-world ordering system.
 
 ## 🚀 Features
@@ -25,11 +27,3 @@ Through this project, I worked with:
 
 The goal of this project was to simulate a simple food ordering system and improve on earlier projects by adding more advanced functionality such as cart management and item removal.
 
-## 🔧 Example Output
-
-The cart displays items in the following format:
-
-Skinke x2 - 90 kr  
-Pepperoni x1 - 55 kr  
-
-Total price is calculated and displayed separately.
