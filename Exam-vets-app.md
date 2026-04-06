@@ -2,13 +2,29 @@
 
 This project is a JavaScript app created using Code.org. 
 
-This app is designed with a database to store and remember usernames and passwords, as well as create new user for the app.
+This project is an application designed to calculate medicine dosage for pets.
 
-The app designed to calculate medicine for pets. It's designed with a front page to create account and login to the app where you can choose between different animals. 
+## 🚀 Features
 
-In my app you can choose between cat and dog, when you have chosen which one you can to choose between races and different types of medicine. 
+- User registration and login system  
+- Database for storing usernames and passwords  
+- Input validation (username and password requirements)  
+- Selection between different animals (e.g., cat and dog)  
+- Selection of breed and type of medicine  
+- Calculation of medicine dosage based on weight and type of medicine
 
-You can put in the weight of the race and calculate how much medicine is needed.
+## 🧠 What I Learned
+
+Through this project, I worked with:
+- Database interaction  
+- User authentication  
+- Input validation  
+- Conditional logic  
+- Structuring a larger application  
+
+## 🎯 Purpose
+
+The goal of this project was to build a more advanced application combining user accounts, data handling, and real-world calculations.
 
 You can view and interact with the project using the following link:
 
