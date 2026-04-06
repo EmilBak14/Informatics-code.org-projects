@@ -1,6 +1,6 @@
 # Simple shopping cart
 
-This project is a JavaScript app created using Code.org. 
+This project is a JavaScript-based application developed using Code.org.
 
 This project is a basic product page with shopping cart functionality.
 
