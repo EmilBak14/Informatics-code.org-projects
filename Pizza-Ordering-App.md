@@ -27,3 +27,6 @@ Through this project, I worked with:
 
 The goal of this project was to simulate a simple food ordering system and improve on earlier projects by adding more advanced functionality such as cart management and item removal.
 
+You can view and interact with the project using the following link:
+
+[Code.org Project Multiple simple apps in 1](https://studio.code.org/projects/applab/k4u70ZRW26z9d0q5nVie0fWVqZEnO1YGOImsHA3D81U)
