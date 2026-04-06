@@ -1,6 +1,6 @@
 # Save or find contacts app
 
-This project is a JavaScript app created using Code.org. 
+This project is a JavaScript-based application developed using Code.org.
 
 This project is a simple application for storing and retrieving contact information.
 
